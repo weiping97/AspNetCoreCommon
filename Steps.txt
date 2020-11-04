@@ -1,3 +1,4 @@
 1. create tables, stored procedure and scripts for creating DB
 2. installed Dapper, microsoft.extensions.configuration, and microsoft.data.sqlclient FOR DataLibrary
 3. Create SqlDb class
+4. setup all data access layer (FoodData, OrderData)
